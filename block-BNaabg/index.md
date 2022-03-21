@@ -18,7 +18,7 @@ Project folder
 
 Each user will be stored inside users dircetory by creating a file which will be based on user's username which should be unique.
 
-Each user will have fields:-
+Each user will have fields:- 
 
 - name
 - email
